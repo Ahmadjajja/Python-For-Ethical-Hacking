@@ -3,10 +3,8 @@
 <img src="images/image.png" width='700'/>
  
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/saadhaxxan/Python-For-Ethical-Hacking/graphs/contributors/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/saadhaxxan/Python-For-Ethical-Hacking/issues/)
 </div>
 
 # Table Of Contents
@@ -23,7 +21,7 @@
 1.Clone the Repo and install the requirements
 
 ```
-git clone https://github.com/saadhaxxan/Python-For-Ethical-Hacking.git
+git clone https://github.com/Ahmadjajja/Python-For-Ethical-Hacking.git
 cd Python-For-Ethical-Hacking
 pip install -r requirements.txt
 ```
@@ -32,10 +30,10 @@ pip install -r requirements.txt
 You can get in touch with me on my LinkedIn Profile:
 
 #### Saad Hassan
-[![LinkedIn Link](https://img.shields.io/badge/Connect-saadhaxxan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/saadhaxxan)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Ahmadjajja-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/ahmad-jajja-ba8b34210/)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-saadhaxxan-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/saadhaxxan)
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Ahmadjajja-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Ahmadjajja)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
